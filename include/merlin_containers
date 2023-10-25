@@ -1,0 +1,6 @@
+#ifndef MERLIN_CONTAINERS
+#define MERLIN_CONTAINERS
+
+#include <merlin_basic_password.hpp>
+
+#endif
